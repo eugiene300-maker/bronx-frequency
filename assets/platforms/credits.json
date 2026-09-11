@@ -1,0 +1,157 @@
+[
+  {
+    "platform": "Apple Podcasts",
+    "source": "https://www.apple.com/itunes/marketing-on-podcasts/identity-guidelines.html#apple-podcasts-icon",
+    "provider": "Simple Icons 16.30.0",
+    "license": "CC0-1.0 (Simple Icons collection); trademark rights remain with brand owner",
+    "hex": "9933CC",
+    "verified": "2026-09-11",
+    "file": "applepodcasts.svg"
+  },
+  {
+    "platform": "Spotify",
+    "source": "https://developer.spotify.com/documentation/general/design-and-branding/#using-our-logo",
+    "provider": "Simple Icons 16.30.0",
+    "license": "CC0-1.0 (Simple Icons collection); trademark rights remain with brand owner",
+    "hex": "1ED760",
+    "verified": "2026-09-11",
+    "file": "spotify.svg"
+  },
+  {
+    "platform": "YouTube",
+    "source": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors",
+    "provider": "Simple Icons 16.30.0",
+    "license": "CC0-1.0 (Simple Icons collection); trademark rights remain with brand owner",
+    "hex": "FF0000",
+    "verified": "2026-09-11",
+    "file": "youtube.svg"
+  },
+  {
+    "platform": "Amazon Music",
+    "source": "https://music.amazon.com",
+    "assetUrl": "https://m.media-amazon.com/images/G/01/music/logo/1.0/smile_256x256.png",
+    "provider": "Official platform website",
+    "license": "No explicit redistribution license found; brand owner retains rights",
+    "verified": "2026-09-11",
+    "file": "amazonmusic.png"
+  },
+  {
+    "platform": "iHeartRadio",
+    "source": "https://brand.iheart.com/logo",
+    "provider": "Simple Icons 16.30.0",
+    "license": "CC0-1.0 (Simple Icons collection); trademark rights remain with brand owner",
+    "hex": "C6002B",
+    "verified": "2026-09-11",
+    "file": "iheartradio.svg"
+  },
+  {
+    "platform": "Podcast Index",
+    "source": "https://podcastindex.org",
+    "provider": "Simple Icons 16.30.0",
+    "license": "CC0-1.0 (Simple Icons collection); trademark rights remain with brand owner",
+    "hex": "F90000",
+    "verified": "2026-09-11",
+    "file": "podcastindex.svg"
+  },
+  {
+    "platform": "Castbox",
+    "source": "https://castbox.fm/newsroom/",
+    "provider": "Simple Icons 16.30.0",
+    "license": "CC0-1.0 (Simple Icons collection); trademark rights remain with brand owner",
+    "hex": "F55B23",
+    "verified": "2026-09-11",
+    "file": "castbox.svg"
+  },
+  {
+    "platform": "Overcast",
+    "source": "https://overcast.fm",
+    "provider": "Simple Icons 16.30.0",
+    "license": "CC0-1.0 (Simple Icons collection); trademark rights remain with brand owner",
+    "hex": "FC7E0F",
+    "verified": "2026-09-11",
+    "file": "overcast.svg"
+  },
+  {
+    "platform": "Pocket Casts",
+    "source": "https://blog.pocketcasts.com/press/",
+    "provider": "Simple Icons 16.30.0",
+    "license": "CC0-1.0 (Simple Icons collection); trademark rights remain with brand owner",
+    "hex": "F43E37",
+    "verified": "2026-09-11",
+    "file": "pocketcasts.svg"
+  },
+  {
+    "platform": "Podcast Addict",
+    "source": "https://podcastaddict.com",
+    "provider": "Simple Icons 16.30.0",
+    "license": "CC0-1.0 (Simple Icons collection); trademark rights remain with brand owner",
+    "hex": "F4842D",
+    "verified": "2026-09-11",
+    "file": "podcastaddict.svg"
+  },
+  {
+    "platform": "Deezer",
+    "source": "https://deezerbrand.com/document/37#/-/logo",
+    "provider": "Simple Icons 16.30.0",
+    "license": "CC0-1.0 (Simple Icons collection); trademark rights remain with brand owner",
+    "hex": "A238FF",
+    "verified": "2026-09-11",
+    "file": "deezer.svg"
+  },
+  {
+    "platform": "Listen Notes",
+    "source": "https://www.listennotes.com",
+    "assetUrl": "https://www.listennotes.com/static/v4/img/logo/apple-touch-icon.png",
+    "provider": "Official platform website",
+    "license": "No explicit redistribution license found; brand owner retains rights",
+    "verified": "2026-09-11",
+    "file": "listennotes.png"
+  },
+  {
+    "platform": "Podchaser",
+    "source": "https://advertise.acast.com/news-and-insights/podcast-advertisings-advanced-targeting-connects-brands-with-highly-engaged-senior-executives-through-91-brand-safe-content-podchaser-study-finds",
+    "assetUrl": "https://cdn.prod.website-files.com/63c905cf26433ad83c9b98bb/6645eda52a08bb541fed43d0_Podchaser%20Logo%20Website.jpg",
+    "provider": "Official Acast website (Podchaser parent company)",
+    "license": "No explicit redistribution license found; brand owner retains rights",
+    "note": "Full official Podchaser logo, not isolated icon; Podchaser-hosted favicon could not be retrieved (403).",
+    "verified": "2026-09-11",
+    "file": "podchaser.jpg"
+  },
+  {
+    "platform": "Player FM",
+    "source": "https://player.fm",
+    "provider": "Simple Icons 16.30.0",
+    "license": "CC0-1.0 (Simple Icons collection); trademark rights remain with brand owner",
+    "hex": "C8122A",
+    "verified": "2026-09-11",
+    "file": "playerfm.svg"
+  },
+  {
+    "platform": "Castro",
+    "source": "https://supertop.co/castro/press/",
+    "provider": "Simple Icons 16.30.0",
+    "license": "CC0-1.0 (Simple Icons collection); trademark rights remain with brand owner",
+    "hex": "00B265",
+    "verified": "2026-09-11",
+    "file": "castro.svg"
+  },
+  {
+    "platform": "Goodpods",
+    "source": "https://goodpods.com",
+    "assetUrl": "https://goodpods.com/favicon.ico",
+    "provider": "Official platform website",
+    "license": "No explicit redistribution license found; brand owner retains rights",
+    "note": "Official 48\u00d748 favicon losslessly decoded from ICO to PNG; original ICO retained.",
+    "verified": "2026-09-11",
+    "file": "goodpods.png"
+  },
+  {
+    "platform": "TrueFans",
+    "source": "https://truefans.fm",
+    "assetUrl": "https://truefans.fm/images/icon-512x512.png",
+    "provider": "Official platform website",
+    "license": "No explicit redistribution license found; brand owner retains rights",
+    "verified": "2026-09-11",
+    "file": "truefans.png"
+  }
+]
